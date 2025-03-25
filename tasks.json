@@ -3,46 +3,46 @@
         {
             "id": "1",
             "name": "Buy Milk",
-            "description": "Description 1",
+            "description": "Purchase a carton of milk from the grocery store.",
             "category": "4",
             "status": "3",
-            "dueDate": "2021-12-31",
+            "dueDate": "2025-03-28",
             "recurrence": "2"
         },
         {
             "id": "2",
             "name": "Taste Italy Wine",
-            "description": "Description 2",
+            "description": "Enjoy a selection of fine Italian wines at a tasting event.",
             "category": "5",
             "status": "1",
-            "dueDate": "2021-12-31",
+            "dueDate": "2025-04-15",
             "recurrence": "1"
         },
         {
             "id": "3",
             "name": "Submit Project to Stakeholders",
-            "description": "Description 3",
+            "description": "Finalize the project and submit it to key stakeholders for review.",
             "category": "1",
             "status": "2",
-            "dueDate": "2021-12-31",
+            "dueDate": "2025-05-10",
             "recurrence": "4"
         },
         {
             "id": "4",
             "name": "Golf Cup 2025",
-            "description": "Description 4",
+            "description": "Attend or participate in the Golf Cup 2025 tournament.",
             "category": "3",
             "status": "3",
-            "dueDate": "2021-12-31",
+            "dueDate": "2025-06-20",
             "recurrence": "1"
         },
         {
             "id": "5",
             "name": "Clean Bathroom Suite",
-            "description": "Description 5",
+            "description": "Thoroughly clean the bathroom, including the sink, toilet, and shower.",
             "category": "2",
             "status": "1",
-            "dueDate": "2021-12-31",
+            "dueDate": "2025-03-30",
             "recurrence": "3"
         }
     ],
